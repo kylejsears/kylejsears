@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kylejsears
 - 👀 I’m a Mechanical Engineer, who has a lifelong interest in programming.
-- 🌱 I’m currently learning Swift for the purposes of mobile app development.
-- 💞️ I’m looking to collaborate on ... nothing specific, currently.
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning Swift for iOS Development
 
 <!---
 kylejsears/kylejsears is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
